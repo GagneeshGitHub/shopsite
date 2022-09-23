@@ -1,0 +1,11 @@
+{
+    "name": "Gagneesh Vimal",
+    "Age": 22,
+    "isAdmihn": true,
+    "nullValue": null,
+    "otherData": ["Shopping", "Adding Cart", "Nothing To Show"],
+    "nesteData": {
+        "name": "Sub Data",
+        "desc": "This is sub data of the nestedData"
+    }
+}
